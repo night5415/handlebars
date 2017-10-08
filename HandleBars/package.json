@@ -1,0 +1,19 @@
+{
+  "name": "handle-bars",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "description": "HandleBars",
+  "author": {
+    "name": "mike"
+  },
+  "main": "app.js",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "pug": "^2.0.0-beta6"
+  }
+}
